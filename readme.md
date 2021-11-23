@@ -1,6 +1,12 @@
 # VueJS 101
 
-## VueJS
+Vous allez développer un outil super utile en peu de ligne de code une TODO LIST.
+
+Ouais je sais c'est l'exemple de base, mais il faut bien commencer quelque part, et puis on va pouvoir apprendre plein de petits mécanismes ultra utile de VueJS. So LetsGoooooo.
+
+![](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif)
+
+## Todo ( ͡° ͜ʖ ͡°)
 - [ ] Créer l'application VueJS
 - [ ] Lister les taches en cours
 - [ ] Ajouter des taches (Utiliser `v-model`)
@@ -14,7 +20,7 @@
 - [ ] Afficher les niveaux de priorité dans la liste des tâches
 - [ ] Ajouter un système de tri de vos tâches par priorité
 
-## Ressources 
+## Ressources à lire evidemment
 * [Getting Started with VueJS](https://v3.vuejs.org/guide/introduction.html#declarative-rendering)
 * [Gestion de la saisie utilisateur](https://v3.vuejs.org/guide/introduction.html#handling-user-input)
 * [Formulaires et v-model en détail](https://v3.vuejs.org/guide/forms.html#basic-usage)
