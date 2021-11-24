@@ -7,6 +7,7 @@ Ouais je sais c'est l'exemple de base, mais il faut bien commencer quelque part,
 ![](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif)
 
 ## Todo ( ͡° ͜ʖ ͡°)
+> Avant de commencer, pensez à installer l'extension Vue DevTool sur votre navigateur **(prenez la version compatible avec Vue3 !)**
 - [ ] Créer l'application VueJS
 - [ ] Lister les taches en cours
 - [ ] Ajouter des taches (Utiliser `v-model`)
@@ -22,6 +23,7 @@ Ouais je sais c'est l'exemple de base, mais il faut bien commencer quelque part,
 
 ## Ressources à lire evidemment
 * [Getting Started with VueJS](https://v3.vuejs.org/guide/introduction.html#declarative-rendering)
+* [`methods` et la propriété `data`](https://v3.vuejs.org/guide/data-methods.html#methods)
 * [Gestion de la saisie utilisateur](https://v3.vuejs.org/guide/introduction.html#handling-user-input)
 * [Formulaires et v-model en détail](https://v3.vuejs.org/guide/forms.html#basic-usage)
 * [Les directives, if, for...](https://v3.vuejs.org/guide/introduction.html#conditionals-and-loops)
